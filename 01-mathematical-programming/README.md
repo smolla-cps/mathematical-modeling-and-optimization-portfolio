@@ -85,9 +85,7 @@ Figures and iteration tables are produced by notebook cells. Mathematical expres
 - **SciPy:** Continuous and mixed-integer optimization (`linprog`, `milp`, `minimize`, `minimize_scalar`), assignment (`linear_sum_assignment`), probability distributions, and graph-related calculations.
 - **IPython / JupyterLab:** Interactive notebook execution and formatted output.
 
-## Scope and References
 
-The examples and optimization methods are developed for a computational portfolio informed by **Hamdy A. Taha, *Operations Research: An Introduction*, 8th Edition**, especially Chapters 4, 5, 9, and 19 alongside foundational linear programming topics. Each notebook includes its own examples, assumptions, computational approach, and interpretation; algorithm implementations and numerical results should be reviewed with the notebook's stated model assumptions.
 
 ## Intended Audience
 
